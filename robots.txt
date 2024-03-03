@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: http://ftp.xinsec.cn/sitemap.xml
+Sitemap: https://ftp.xinsec.cn/sitemap.xml
